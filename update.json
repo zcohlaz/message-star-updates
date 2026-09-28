@@ -1,9 +1,9 @@
 {
   "packageName": "com.messagestar.app",
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "notes": "新增应用内检查更新、下载进度与安全校验；强提醒期间暂停更新。",
-  "apkUrl": "https://github.com/zcohlaz/message-star-updates/releases/download/v1.2.0/MessageStar-v1.2.0.apk",
-  "sizeBytes": 1462071,
-  "sha256": "08cee5af6a8a68e65d9d693526444d1b33f8a528eb15238b9736be41d045d0a6"
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "notes": "修复部分网络下检查更新失败的问题；更新清单改由 GitHub Pages 提供。",
+  "apkUrl": "https://github.com/zcohlaz/message-star-updates/releases/download/v1.2.1/MessageStar-v1.2.1.apk",
+  "sizeBytes": 1462066,
+  "sha256": "faa199f1581d7e11139e387f72e0dde8c31c5872eb1cbc349bc4e0777be775aa"
 }
